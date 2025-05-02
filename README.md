@@ -34,7 +34,7 @@
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/spotify-for-learning.git
+    git clone https://github.com/subasishmula2001/spotify-for-learning.git
     cd spotify-for-learning
     ```
 
@@ -56,7 +56,7 @@
 
 ## Demo
 
-Check out the **[Demo Video](#https://youtu.be/_Qt2xTaP4Ns)** to see the app in action!
+Check out the **[Demo Video](https://youtu.be/_Qt2xTaP4Ns)** to see the app in action!
 
 ---
 
