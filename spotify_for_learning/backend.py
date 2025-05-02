@@ -3,7 +3,7 @@ import pyttsx3
 import google.generativeai as genai
 
 # Initialize Gemini API
-genai.configure(api_key="AIzaSyAG-BDfiKu52S5rJBAPaITpzvE6Oer42oY")
+genai.configure(api_key="for security reason i am hiding this as of now ")
 model = genai.GenerativeModel("gemini-1.5-pro")
 
 # Function to generate learning content based on topics and time
